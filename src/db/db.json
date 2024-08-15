@@ -1,0 +1,17 @@
+{
+  "companyDetails": {
+    "name": "Inara AG Group",
+    "email": "",
+    "phone": "+383 46 111 200",
+    "address": "Rr. Gjergj Kastrioti Skenderbeu 7",
+    "city": "Vushtrri",
+    "accountNumber": "Numri i bankes",
+    "iban": "XK05",
+    "swiftCode": "XYZABC",
+    "businessNumber": "8121089779",
+    "taxNumber": "330581547"
+  },
+  "emailContent": {
+
+  }
+}
